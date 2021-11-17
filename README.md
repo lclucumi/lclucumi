@@ -1,6 +1,6 @@
 <h1 align="center">  :woman_technologist: Hello, I'm Luz Carime! 👋</h1>
 
-* I am a technologist in Analysis and Development of Information Systems ADSI (SENA).
+* I am an Analysis and Development of Information Systems ADSI technologist (SENA).
 * I am a tenth semester student of Systems Engineering at the Universidad del Valle.
 * I am a programming monitor in the subject Fundamentals of Programming at the Universidad del Valle.
 * I am passionate about learning and programming.
