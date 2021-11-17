@@ -11,8 +11,8 @@
 
 ## My GitHub Stats :bar_chart:
 
-<a><img width="432" img align="center" src="https://github-readme-stats.vercel.app/api?username=lclucumi&show_icons=true&theme=tokyonight" class="responsive" />
-</a><a><img width="432" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lclucumi&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
+<a><img width="300" img align="center" src="https://github-readme-stats.vercel.app/api?username=lclucumi&show_icons=true&theme=tokyonight" class="responsive" />
+</a><a><img width="300" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lclucumi&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
 
 <h3 align="center"> CONTACT ME :telephone:</h3>
 <p align="center">
