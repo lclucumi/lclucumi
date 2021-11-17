@@ -6,7 +6,7 @@
 * I am passionate about learning and programming.
 
 <p align="center">
-<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/lclucumiAvatar.jpg" />
+<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/lclucumiAvatar.jpg"  width="464px"/>
 </p>
 
 ## My GitHub Stats :bar_chart:
