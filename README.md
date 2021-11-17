@@ -6,7 +6,7 @@
 * I am passionate about learning and programming.
 
 <p align="center">
-<img align="center" src="https://c.neh.tw/thumb/f/720/comvecteezy227880.jpg" />
+<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/lclucumiAvatar.jpg" />
 </p>
 
 ## My GitHub Stats :bar_chart:
@@ -14,7 +14,7 @@
 <a><img width="432" img align="left" src="https://github-readme-stats.vercel.app/api?username=lclucumi&show_icons=true&theme=tokyonight" class="responsive" />
 </a><a><img width="432" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lclucumi&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
 
-<h3 align="center"> :telephone_receiver: CONTACT ME </h3>
+<h3 align="center"> CONTACT ME :telephone:</h3>
 <p align="center">
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/luzcarime/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
