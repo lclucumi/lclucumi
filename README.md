@@ -1,9 +1,9 @@
-<h1 align="center">  :woman_technologist: Hello, I'm Luz Carime! 👋</h1>
+<h1 align="center"> Hello 👋, I'm Luz Carime! 👩🏽‍💻︎ </h1>
 
-* I am an Analysis and Development of Information Systems ADSI technologist (SENA).
-* I am a tenth semester student of Systems Engineering at the Universidad del Valle.
-* I am a programming monitor in the subject Fundamentals of Programming at the Universidad del Valle.
-* I am passionate about learning and programming.
+* 👩🏽‍🎓︎ I am an Analysis and Development of Information Systems ADSI technologist (SENA).
+* :books: I am a tenth semester student of Systems Engineering at the Universidad del Valle.
+* 👩🏽‍🏫︎ I am a programming monitor in the subject Fundamentals of Programming at the Universidad del Valle.
+* 🥰︎ I am passionate about learning and programming.
 
 <p align="center">
 <img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/lclucumiAvatar.jpg"  width="464px"/>
@@ -11,10 +11,14 @@
 
 ## My GitHub Stats :bar_chart:
 
-<a><img width="398" img align="center" src="https://github-readme-stats.vercel.app/api?username=lclucumi&show_icons=true&theme=tokyonight" class="responsive" />
-</a><a><img width="398" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lclucumi&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
+<a><img width="398" align="center" src="https://github-readme-stats.vercel.app/api?username=lclucumi&show_icons=true&theme=tokyonight" class="responsive" />
+</a>
+<a><img width="398" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lclucumi&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
+<div align="center">
+<a><img width="640" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lclucumi&theme=vue"></a></a>
+</div>
 
-<h3 align="center"> CONTACT ME :telephone:</h3>
+<h3 align="center"> Find me around the web 🌎 </h3>
 <p align="center">
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/luzcarime/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
