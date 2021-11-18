@@ -1,5 +1,5 @@
-<p align="center">
-<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/overviewBanner.jpg"  width="780px"/>
+
+<img src="https://github.com/lclucumi/lclucumi/blob/main/images/overviewBanner.jpg"  width="780px"/>
 
 * 👩🏽‍🎓︎ I'm an Analysis and Development of Information Systems ADSI technologist (SENA).
 * :books: I'm a tenth semester student of Systems Engineering at the Universidad del Valle.
