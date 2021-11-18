@@ -1,13 +1,11 @@
-<h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Luz Carime! 👩🏽‍💻︎ </h1>
+<p align="center">
+<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/overviewBanner.jpg"  width="800px"/>
 
 * 👩🏽‍🎓︎ I'm an Analysis and Development of Information Systems ADSI technologist (SENA).
 * :books: I'm a tenth semester student of Systems Engineering at the Universidad del Valle.
 * 👩🏽‍🏫︎ I'm a programming monitor in the subject Fundamentals of Programming at the Universidad del Valle.
 * 🥰︎ I'm passionate about learning and programming.
 
-<p align="center">
-<img align="center" src="https://github.com/lclucumi/lclucumi/blob/main/images/lclucumiAvatar.jpg"  width="424px"/>
-</p>
 
 ## My GitHub Stats :bar_chart:
 
