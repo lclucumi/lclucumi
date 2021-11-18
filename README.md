@@ -1,5 +1,5 @@
 
-<img src="https://github.com/lclucumi/lclucumi/blob/main/images/overviewBanner.jpg"  width="780px"/>
+<img src="https://github.com/lclucumi/lclucumi/blob/main/images/header.png"  width="800px"/>
 
 * 👩🏽‍🎓︎ I'm an Analysis and Development of Information Systems ADSI technologist (SENA).
 * :books: I'm a tenth semester student of Systems Engineering at the Universidad del Valle.
@@ -23,3 +23,5 @@
     <!-- gmail-->
     <a href="mailto:luz.lucumi@correounivalle.edu.co"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
+
+<img align="right" src="https://github.com/lclucumi/lclucumi/blob/main/images/footer.png"  width="600px"/>
