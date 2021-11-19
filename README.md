@@ -24,4 +24,4 @@
     <a href="mailto:luz.lucumi@correounivalle.edu.co"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
 
-<img src="https://github.com/lclucumi/lclucumi/blob/main/images/footerImage.png"  width="800px"/>
+<img src="https://github.com/lclucumi/lclucumi/blob/main/images/footer.png"  width="800px"/>
