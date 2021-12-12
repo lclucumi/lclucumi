@@ -19,9 +19,9 @@
 <h3 align="center"> Find me around the web 🌎 </h3>
 <p align="center">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/luzcarime/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/luzcarime/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- gmail-->
-    <a href="mailto:luz.lucumi@correounivalle.edu.co"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="20px" alt="e-mail"></a> &nbsp; &nbsp;
+    <a href="mailto:luz.lucumi@correounivalle.edu.co"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
 
 <img src="https://github.com/lclucumi/lclucumi/blob/main/images/footer.png"  width="800px"/>
