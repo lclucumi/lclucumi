@@ -3,7 +3,7 @@
 
 * 👩🏽‍🎓︎ I'm a Technologist in Information Systems Analysis and Development graduated from SENA CLEM.
 * :books: I am a Systems Engineer graduated from Universidad del Valle.
-* 👩🏽‍🏫︎ I'm a teaching assistant for the subject Basic Principles of Programming at Universidad del Valle.
+* 👩🏽‍🏫︎ I worked as a teaching assistant for the subject Basic Principles of Programming at Universidad del Valle.
 * 🥰︎ I'm passionate about learning and programming.
 
 
